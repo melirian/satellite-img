@@ -1,2 +1,1 @@
-# Satellite imaginary
-This repository is created to become aware of satellite imaginery.
+# This repository is created to become aware of satellite imaginery.
